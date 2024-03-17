@@ -1,6 +1,6 @@
 # Netflix GPT
 
-Netflix GPT is a web application that leverages the power of OpenAI's GPT API to provide personalized movie recommendations to users. The project utilizes React.js for the frontend, Firebase for authentication, Redux Toolkit for state management, and Tailwind CSS for styling. Additionally, it fetches movie data from the TMDB API to enhance the user experience.
+Netflix GPT is a web application that leverages the power of OpenAI's GPT API to provide personalized movie recommendations to users. The project utilizes React.js for the frontend, Firebase for authentication, Redux Toolkit for state management, react-router-dom for routing between different components and Tailwind CSS for styling. Additionally, it fetches movie data from the TMDB API to enhance the user experience.
 
 Live Demo : [Live Demo](https://netflixgpt-433bc.web.app/ "Live Demo")
 
@@ -33,6 +33,7 @@ Live Demo : [Live Demo](https://netflixgpt-433bc.web.app/ "Live Demo")
 - **Firebase**: A platform offering various backend services, including authentication, database, and hosting.
 - **Redux Toolkit**: A state management library that simplifies the process of managing application state.
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+- **react-router-dom**: A routing library for React applications, facilitating navigation and routing between different components.
 - **OpenAI GPT API**: Provides access to state-of-the-art natural language processing models for generating text-based recommendations.
 - **TMDB API**: The Movie Database API provides a rich source of movie-related data, including details, images, and ratings.
 
