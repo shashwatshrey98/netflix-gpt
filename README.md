@@ -2,6 +2,8 @@
 
 Netflix GPT is a web application that leverages the power of OpenAI's GPT API to provide personalized movie recommendations to users. The project utilizes React.js for the frontend, Firebase for authentication, Redux Toolkit for state management, and Tailwind CSS for styling. Additionally, it fetches movie data from the TMDB API to enhance the user experience.
 
+Live Demo : [Live Demo](https://netflixgpt-433bc.web.app/ "Live Demo")
+
 ## Features
 
 - **Personalized Recommendations**: Utilizes OpenAI's GPT API to generate tailored movie recommendations based on user preferences.
@@ -48,10 +50,6 @@ To run the project locally, follow these steps:
 ## Contributors
 
 - Shashwat Shrey
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
