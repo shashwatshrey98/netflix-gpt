@@ -60,7 +60,7 @@ To run the project locally, follow these steps:
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues, please feel free to open an issue on GitHub or reach out to [Your Email] for support. We appreciate your contributions and feedback!
+If you have any feedback, suggestions, or issues, please feel free to open an issue on GitHub for support. We appreciate your contributions and feedback!
 
 Enjoy discovering personalized movie recommendations with Netflix GPT! 🎬🍿
 
